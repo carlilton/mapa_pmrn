@@ -1,0 +1,28 @@
+
+html body {    
+  color: #ffffff;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  height: 90%;
+  background-color: #ecf0f5;
+
+}
+
+#container {
+  margin: 0 auto;
+  text-align: left;
+}
+
+.content {  
+  width: 100%;
+  
+}
+#svg-map {  
+  width: 80%;
+  fill: #F8F6F4;
+  stroke: #ddd;
+  stroke-width: 0.3;
+}

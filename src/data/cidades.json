@@ -1,0 +1,1032 @@
+{
+      "cidades": [
+       {
+           "state_id": 20,
+           "name": "MOSSORÓ",
+           "is_capital": 0,
+           "co_ibge": "2408003"
+       },
+       {
+           "state_id": 20,
+           "name": "NATAL",
+           "is_capital": 1,
+           "co_ibge": "2408102"
+       },
+       {
+           "state_id": 20,
+           "name": "PARNAMIRIM",
+           "is_capital": 0,
+           "co_ibge": "2403251",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "ACARI",
+           "is_capital": 0,
+           "co_ibge": "2400109"
+       },
+       {
+           "state_id": 20,
+           "name": "AÇU",
+           "is_capital": 0,
+           "co_ibge": "2400208"
+       },
+       {
+           "state_id": 20,
+           "name": "AFONSO BEZERRA",
+           "is_capital": 0,
+           "co_ibge": "2400307"
+       },
+       {
+           "state_id": 20,
+           "name": "ÁGUA NOVA",
+           "is_capital": 0,
+           "co_ibge": "2400406"
+       },
+       {
+           "state_id": 20,
+           "name": "ALEXANDRIA",
+           "is_capital": 0,
+           "co_ibge": "2400505"
+       },
+       {
+           "state_id": 20,
+           "name": "ALMINO AFONSO",
+           "is_capital": 0,
+           "co_ibge": "2400604"
+       },
+       {
+           "state_id": 20,
+           "name": "ALTO DO RODRIGUES",
+           "is_capital": 0,
+           "co_ibge": "2400703"
+       },
+       {
+           "state_id": 20,
+           "name": "ANGICOS",
+           "is_capital": 0,
+           "co_ibge": "2400802"
+       },
+       {
+           "state_id": 20,
+           "name": "ANTÔNIO MARTINS",
+           "is_capital": 0,
+           "co_ibge": "2400901"
+       },
+       {
+           "state_id": 20,
+           "name": "APODI",
+           "is_capital": 0,
+           "co_ibge": "2401008"
+       },
+       {
+           "state_id": 20,
+           "name": "AREIA BRANCA",
+           "is_capital": 0,
+           "co_ibge": "2401107"
+       },
+       {
+           "state_id": 20,
+           "name": "ARÊS",
+           "is_capital": 0,
+           "co_ibge": "2401206"
+       },
+       {
+           "state_id": 20,
+           "name": "AUGUSTO SEVERO",
+           "is_capital": 0,
+           "co_ibge": "2401305"
+       },
+       {
+           "state_id": 20,
+           "name": "BAÍA FORMOSA",
+           "is_capital": 0,
+           "co_ibge": "2401404"
+       },
+       {
+           "state_id": 20,
+           "name": "BARAÚNA",
+           "is_capital": 0,
+           "co_ibge": "2401453"
+       },
+       {
+           "state_id": 20,
+           "name": "BARCELONA",
+           "is_capital": 0,
+           "co_ibge": "2401503"
+       },
+       {
+           "state_id": 20,
+           "name": "BENTO FERNANDES",
+           "is_capital": 0,
+           "co_ibge": "2401602"
+       },
+       {
+           "state_id": 20,
+           "name": "BODÓ",
+           "is_capital": 0,
+           "co_ibge": "2401651"
+       },
+       {
+           "state_id": 20,
+           "name": "BOM JESUS",
+           "is_capital": 0,
+           "co_ibge": "2401701",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "BREJINHO",
+           "is_capital": 0,
+           "co_ibge": "2401800"
+       },
+       {
+           "state_id": 20,
+           "name": "CAIÇARA DO NORTE",
+           "is_capital": 0,
+           "co_ibge": "2401859"
+       },
+       {
+           "state_id": 20,
+           "name": "CAIÇARA DO RIO DO VENTO",
+           "is_capital": 0,
+           "co_ibge": "2401909"
+       },
+       {
+           "state_id": 20,
+           "name": "CAICÓ",
+           "is_capital": 0,
+           "co_ibge": "2402006"
+       },
+       {
+           "state_id": 20,
+           "name": "CAMPO REDONDO",
+           "is_capital": 0,
+           "co_ibge": "2402105"
+       },
+       {
+           "state_id": 20,
+           "name": "CANGUARETAMA",
+           "is_capital": 0,
+           "co_ibge": "2402204"
+       },
+       {
+           "state_id": 20,
+           "name": "CARAÚBAS",
+           "is_capital": 0,
+           "co_ibge": "2402303"
+       },
+       {
+           "state_id": 20,
+           "name": "CARNAÚBA DOS DANTAS",
+           "is_capital": 0,
+           "co_ibge": "2402402"
+       },
+       {
+           "state_id": 20,
+           "name": "CARNAUBAIS",
+           "is_capital": 0,
+           "co_ibge": "2402501"
+       },
+       {
+           "state_id": 20,
+           "name": "CEARÁ-MIRIM",
+           "is_capital": 0,
+           "co_ibge": "2402600",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "CERRO CORÁ",
+           "is_capital": 0,
+           "co_ibge": "2402709"
+       },
+       {
+           "state_id": 20,
+           "name": "CORONEL EZEQUIEL",
+           "is_capital": 0,
+           "co_ibge": "2402808"
+       },
+       {
+           "state_id": 20,
+           "name": "CORONEL JOÃO PESSOA",
+           "is_capital": 0,
+           "co_ibge": "2402907"
+       },
+       {
+           "state_id": 20,
+           "name": "CRUZETA",
+           "is_capital": 0,
+           "co_ibge": "2403004"
+       },
+       {
+           "state_id": 20,
+           "name": "CURRAIS NOVOS",
+           "is_capital": 0,
+           "co_ibge": "2403103"
+       },
+       {
+           "state_id": 20,
+           "name": "DOUTOR SEVERIANO",
+           "is_capital": 0,
+           "co_ibge": "2403202"
+       },
+       {
+           "state_id": 20,
+           "name": "ENCANTO",
+           "is_capital": 0,
+           "co_ibge": "2403301"
+       },
+       {
+           "state_id": 20,
+           "name": "EQUADOR",
+           "is_capital": 0,
+           "co_ibge": "2403400"
+       },
+       {
+           "state_id": 20,
+           "name": "ESPÍRITO SANTO",
+           "is_capital": 0,
+           "co_ibge": "2403509",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "EXTREMOZ",
+           "is_capital": 0,
+           "co_ibge": "2403608",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "FELIPE GUERRA",
+           "is_capital": 0,
+           "co_ibge": "2403707"
+       },
+       {
+           "state_id": 20,
+           "name": "FERNANDO PEDROZA",
+           "is_capital": 0,
+           "co_ibge": "2403756"
+       },
+       {
+           "state_id": 20,
+           "name": "FLORÂNIA",
+           "is_capital": 0,
+           "co_ibge": "2403806"
+       },
+       {
+           "state_id": 20,
+           "name": "FRANCISCO DANTAS",
+           "is_capital": 0,
+           "co_ibge": "2403905"
+       },
+       {
+           "state_id": 20,
+           "name": "FRUTUOSO GOMES",
+           "is_capital": 0,
+           "co_ibge": "2404002"
+       },
+       {
+           "state_id": 20,
+           "name": "GALINHOS",
+           "is_capital": 0,
+           "co_ibge": "2404101"
+       },
+       {
+           "state_id": 20,
+           "name": "GOIANINHA",
+           "is_capital": 0,
+           "co_ibge": "2404200",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "GOVERNADOR DIX-SEPT ROSADO",
+           "is_capital": 0,
+           "co_ibge": "2404309"
+       },
+       {
+           "state_id": 20,
+           "name": "GROSSOS",
+           "is_capital": 0,
+           "co_ibge": "2404408"
+       },
+       {
+           "state_id": 20,
+           "name": "GUAMARÉ",
+           "is_capital": 0,
+           "co_ibge": "2404507"
+       },
+       {
+           "state_id": 20,
+           "name": "IELMO MARINHO",
+           "is_capital": 0,
+           "co_ibge": "2404606",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "IPANGUAÇU",
+           "is_capital": 0,
+           "co_ibge": "2404705"
+       },
+       {
+           "state_id": 20,
+           "name": "IPUEIRA",
+           "is_capital": 0,
+           "co_ibge": "2404804"
+       },
+       {
+           "state_id": 20,
+           "name": "ITAJÁ",
+           "is_capital": 0,
+           "co_ibge": "2404853"
+       },
+       {
+           "state_id": 20,
+           "name": "ITAÚ",
+           "is_capital": 0,
+           "co_ibge": "2404903"
+       },
+       {
+           "state_id": 20,
+           "name": "JAÇANÃ",
+           "is_capital": 0,
+           "co_ibge": "2405009"
+       },
+       {
+           "state_id": 20,
+           "name": "JANDAÍRA",
+           "is_capital": 0,
+           "co_ibge": "2405108"
+       },
+       {
+           "state_id": 20,
+           "name": "JANDUÍS",
+           "is_capital": 0,
+           "co_ibge": "2405207"
+       },
+       {
+           "state_id": 20,
+           "name": "JANUÁRIO CICCO",
+           "is_capital": 0,
+           "co_ibge": "2405306"
+       },
+       {
+           "state_id": 20,
+           "name": "JAPI",
+           "is_capital": 0,
+           "co_ibge": "2405405"
+       },
+       {
+           "state_id": 20,
+           "name": "JARDIM DE ANGICOS",
+           "is_capital": 0,
+           "co_ibge": "2405504"
+       },
+       {
+           "state_id": 20,
+           "name": "JARDIM DE PIRANHAS",
+           "is_capital": 0,
+           "co_ibge": "2405603"
+       },
+       {
+           "state_id": 20,
+           "name": "JARDIM DO SERIDÓ",
+           "is_capital": 0,
+           "co_ibge": "2405702"
+       },
+       {
+           "state_id": 20,
+           "name": "JOÃO CÂMARA",
+           "is_capital": 0,
+           "co_ibge": "2405801"
+       },
+       {
+           "state_id": 20,
+           "name": "JOÃO DIAS",
+           "is_capital": 0,
+           "co_ibge": "2405900"
+       },
+       {
+           "state_id": 20,
+           "name": "JOSÉ DA PENHA",
+           "is_capital": 0,
+           "co_ibge": "2406007"
+       },
+       {
+           "state_id": 20,
+           "name": "JUCURUTU",
+           "is_capital": 0,
+           "co_ibge": "2406106"
+       },
+       {
+           "state_id": 20,
+           "name": "JUNDIÁ",
+           "is_capital": 0,
+           "co_ibge": "2406155"
+       },
+       {
+           "state_id": 20,
+           "name": "LAGOA D\"ANTA",
+           "is_capital": 0,
+           "co_ibge": "2406205"
+       },
+       {
+           "state_id": 20,
+           "name": "LAGOA DE PEDRAS",
+           "is_capital": 0,
+           "co_ibge": "2406304"
+       },
+       {
+           "state_id": 20,
+           "name": "LAGOA DE VELHOS",
+           "is_capital": 0,
+           "co_ibge": "2406403"
+       },
+       {
+           "state_id": 20,
+           "name": "LAGOA NOVA",
+           "is_capital": 0,
+           "co_ibge": "2406502"
+       },
+       {
+           "state_id": 20,
+           "name": "LAGOA SALGADA",
+           "is_capital": 0,
+           "co_ibge": "2406601"
+       },
+       {
+           "state_id": 20,
+           "name": "LAJES",
+           "is_capital": 0,
+           "co_ibge": "2406700"
+       },
+       {
+           "state_id": 20,
+           "name": "LAJES PINTADAS",
+           "is_capital": 0,
+           "co_ibge": "2406809"
+       },
+       {
+           "state_id": 20,
+           "name": "LUCRÉCIA",
+           "is_capital": 0,
+           "co_ibge": "2406908"
+       },
+       {
+           "state_id": 20,
+           "name": "LUÍS GOMES",
+           "is_capital": 0,
+           "co_ibge": "2407005"
+       },
+       {
+           "state_id": 20,
+           "name": "MACAÍBA",
+           "is_capital": 0,
+           "co_ibge": "2407104"
+       },
+       {
+           "state_id": 20,
+           "name": "MACAU",
+           "is_capital": 0,
+           "co_ibge": "2407203"
+       },
+       {
+           "state_id": 20,
+           "name": "MAJOR SALES",
+           "is_capital": 0,
+           "co_ibge": "2407252"
+       },
+       {
+           "state_id": 20,
+           "name": "MARCELINO VIEIRA",
+           "is_capital": 0,
+           "co_ibge": "2407302"
+       },
+       {
+           "state_id": 20,
+           "name": "MARTINS",
+           "is_capital": 0,
+           "co_ibge": "2407401"
+       },
+       {
+           "state_id": 20,
+           "name": "MAXARANGUAPE",
+           "is_capital": 0,
+           "co_ibge": "2407500",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "MESSIAS TARGINO",
+           "is_capital": 0,
+           "co_ibge": "2407609"
+       },
+       {
+           "state_id": 20,
+           "name": "MONTANHAS",
+           "is_capital": 0,
+           "co_ibge": "2407708"
+       },
+       {
+           "state_id": 20,
+           "name": "MONTE ALEGRE",
+           "is_capital": 0,
+           "co_ibge": "2407807",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "MONTE DAS GAMELEIRAS",
+           "is_capital": 0,
+           "co_ibge": "2407906"
+       },
+       {
+           "state_id": 20,
+           "name": "NÍSIA FLORESTA",
+           "is_capital": 0,
+           "co_ibge": "2408201",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "NOVA CRUZ",
+           "is_capital": 0,
+           "co_ibge": "2408300"
+       },
+       {
+           "state_id": 20,
+           "name": "OLHO-D\"ÁGUA DO BORGES",
+           "is_capital": 0,
+           "co_ibge": "2408409"
+       },
+       {
+           "state_id": 20,
+           "name": "OURO BRANCO",
+           "is_capital": 0,
+           "co_ibge": "2408508"
+       },
+       {
+           "state_id": 20,
+           "name": "PARANÁ",
+           "is_capital": 0,
+           "co_ibge": "2408607"
+       },
+       {
+           "state_id": 20,
+           "name": "PARAÚ",
+           "is_capital": 0,
+           "co_ibge": "2408706"
+       },
+       {
+           "state_id": 20,
+           "name": "PARAZINHO",
+           "is_capital": 0,
+           "co_ibge": "2408805"
+       },
+       {
+           "state_id": 20,
+           "name": "PARELHAS",
+           "is_capital": 0,
+           "co_ibge": "2408904"
+       },
+       {
+           "state_id": 20,
+           "name": "PASSA E FICA",
+           "is_capital": 0,
+           "co_ibge": "2409100"
+       },
+       {
+           "state_id": 20,
+           "name": "PASSAGEM",
+           "is_capital": 0,
+           "co_ibge": "2409209"
+       },
+       {
+           "state_id": 20,
+           "name": "PATU",
+           "is_capital": 0,
+           "co_ibge": "2409308"
+       },
+       {
+           "state_id": 20,
+           "name": "PAU DOS FERROS",
+           "is_capital": 0,
+           "co_ibge": "2409407"
+       },
+       {
+           "state_id": 20,
+           "name": "PEDRA GRANDE",
+           "is_capital": 0,
+           "co_ibge": "2409506"
+       },
+       {
+           "state_id": 20,
+           "name": "PEDRA PRETA",
+           "is_capital": 0,
+           "co_ibge": "2409605"
+       },
+       {
+           "state_id": 20,
+           "name": "PEDRO AVELINO",
+           "is_capital": 0,
+           "co_ibge": "2409704"
+       },
+       {
+           "state_id": 20,
+           "name": "PEDRO VELHO",
+           "is_capital": 0,
+           "co_ibge": "2409803"
+       },
+       {
+           "state_id": 20,
+           "name": "PENDÊNCIAS",
+           "is_capital": 0,
+           "co_ibge": "2409902"
+       },
+       {
+           "state_id": 20,
+           "name": "PILÕES",
+           "is_capital": 0,
+           "co_ibge": "2410009"
+       },
+       {
+           "state_id": 20,
+           "name": "POÇO BRANCO",
+           "is_capital": 0,
+           "co_ibge": "2410108"
+       },
+       {
+           "state_id": 20,
+           "name": "PORTALEGRE",
+           "is_capital": 0,
+           "co_ibge": "2410207"
+       },
+       {
+           "state_id": 20,
+           "name": "PORTO DO MANGUE",
+           "is_capital": 0,
+           "co_ibge": "2410256"
+       },
+       {
+           "state_id": 20,
+           "name": "PRESIDENTE JUSCELINO",
+           "is_capital": 0,
+           "co_ibge": "2410306"
+       },
+       {
+           "state_id": 20,
+           "name": "PUREZA",
+           "is_capital": 0,
+           "co_ibge": "2410405",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "RAFAEL FERNANDES",
+           "is_capital": 0,
+           "co_ibge": "2410504"
+       },
+       {
+           "state_id": 20,
+           "name": "RAFAEL GODEIRO",
+           "is_capital": 0,
+           "co_ibge": "2410603"
+       },
+       {
+           "state_id": 20,
+           "name": "RIACHO DA CRUZ",
+           "is_capital": 0,
+           "co_ibge": "2410702"
+       },
+       {
+           "state_id": 20,
+           "name": "RIACHO DE SANTANA",
+           "is_capital": 0,
+           "co_ibge": "2410801"
+       },
+       {
+           "state_id": 20,
+           "name": "RIACHUELO",
+           "is_capital": 0,
+           "co_ibge": "2410900"
+       },
+       {
+           "state_id": 20,
+           "name": "RIO DO FOGO",
+           "is_capital": 0,
+           "co_ibge": "2408953",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "RODOLFO FERNANDES",
+           "is_capital": 0,
+           "co_ibge": "2411007"
+       },
+       {
+           "state_id": 20,
+           "name": "RUY BARBOSA",
+           "is_capital": 0,
+           "co_ibge": "2411106"
+       },
+       {
+           "state_id": 20,
+           "name": "SANTA CRUZ",
+           "is_capital": 0,
+           "co_ibge": "2411205"
+       },
+       {
+           "state_id": 20,
+           "name": "SANTA MARIA",
+           "is_capital": 0,
+           "co_ibge": "2409332"
+       },
+       {
+           "state_id": 20,
+           "name": "SANTANA DO MATOS",
+           "is_capital": 0,
+           "co_ibge": "2411403"
+       },
+       {
+           "state_id": 20,
+           "name": "SANTANA DO SERIDÓ",
+           "is_capital": 0,
+           "co_ibge": "2411429"
+       },
+       {
+           "state_id": 20,
+           "name": "SANTO ANTÔNIO",
+           "is_capital": 0,
+           "co_ibge": "2411502"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO BENTO DO NORTE",
+           "is_capital": 0,
+           "co_ibge": "2411601"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO BENTO DO TRAIRÍ",
+           "is_capital": 0,
+           "co_ibge": "2411700"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO FERNANDO",
+           "is_capital": 0,
+           "co_ibge": "2411809"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO FRANCISCO DO OESTE",
+           "is_capital": 0,
+           "co_ibge": "2411908"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO GONÇALO DO AMARANTE",
+           "is_capital": 0,
+           "co_ibge": "2412005",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO JOÃO DO SABUGI",
+           "is_capital": 0,
+           "co_ibge": "2412104"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO JOSÉ DE MIPIBU",
+           "is_capital": 0,
+           "co_ibge": "2412203",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO JOSÉ DO CAMPESTRE",
+           "is_capital": 0,
+           "co_ibge": "2412302"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO JOSÉ DO SERIDÓ",
+           "is_capital": 0,
+           "co_ibge": "2412401"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO MIGUEL",
+           "is_capital": 0,
+           "co_ibge": "2412500"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO MIGUEL DO GOSTOSO",
+           "is_capital": 0,
+           "co_ibge": "2412559"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO PAULO DO POTENGI",
+           "is_capital": 0,
+           "co_ibge": "2412609"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO PEDRO",
+           "is_capital": 0,
+           "co_ibge": "2412708"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO RAFAEL",
+           "is_capital": 0,
+           "co_ibge": "2412807"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO TOMÉ",
+           "is_capital": 0,
+           "co_ibge": "2412906"
+       },
+       {
+           "state_id": 20,
+           "name": "SÃO VICENTE",
+           "is_capital": 0,
+           "co_ibge": "2413003"
+       },
+       {
+           "state_id": 20,
+           "name": "SENADOR ELÓI DE SOUZA",
+           "is_capital": 0,
+           "co_ibge": "2413102"
+       },
+       {
+           "state_id": 20,
+           "name": "SENADOR GEORGINO AVELINO",
+           "is_capital": 0,
+           "co_ibge": "2413201",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "SERRA DE SÃO BENTO",
+           "is_capital": 0,
+           "co_ibge": "2413300"
+       },
+       {
+           "state_id": 20,
+           "name": "SERRA DO MEL",
+           "is_capital": 0,
+           "co_ibge": "2413359"
+       },
+       {
+           "state_id": 20,
+           "name": "SERRA NEGRA DO NORTE",
+           "is_capital": 0,
+           "co_ibge": "2413409"
+       },
+       {
+           "state_id": 20,
+           "name": "SERRINHA",
+           "is_capital": 0,
+           "co_ibge": "2413508"
+       },
+       {
+           "state_id": 20,
+           "name": "SERRINHA DOS PINTOS",
+           "is_capital": 0,
+           "co_ibge": "2413557"
+       },
+       {
+           "state_id": 20,
+           "name": "SEVERIANO MELO",
+           "is_capital": 0,
+           "co_ibge": "2413607"
+       },
+       {
+           "state_id": 20,
+           "name": "SÍTIO NOVO",
+           "is_capital": 0,
+           "co_ibge": "2413706"
+       },
+       {
+           "state_id": 20,
+           "name": "TABOLEIRO GRANDE",
+           "is_capital": 0,
+           "co_ibge": "2413805"
+       },
+       {
+           "state_id": 20,
+           "name": "TAIPU",
+           "is_capital": 0,
+           "co_ibge": "2413904",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "TANGARÁ",
+           "is_capital": 0,
+           "co_ibge": "2414001"
+       },
+       {
+           "state_id": 20,
+           "name": "TENENTE ANANIAS",
+           "is_capital": 0,
+           "co_ibge": "2414100"
+       },
+       {
+           "state_id": 20,
+           "name": "TENENTE LAURENTINO CRUZ",
+           "is_capital": 0,
+           "co_ibge": "2414159"
+       },
+       {
+           "state_id": 20,
+           "name": "TIBAU",
+           "is_capital": 0,
+           "co_ibge": "2411056"
+       },
+       {
+           "state_id": 20,
+           "name": "TIBAU DO SUL",
+           "is_capital": 0,
+           "co_ibge": "2414209",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "TIMBAÚBA DOS BATISTAS",
+           "is_capital": 0,
+           "co_ibge": "2414308"
+       },
+       {
+           "state_id": 20,
+           "name": "TOUROS",
+           "is_capital": 0,
+           "co_ibge": "2414407"
+       },
+       {
+           "state_id": 20,
+           "name": "TRIUNFO POTIGUAR",
+           "is_capital": 0,
+           "co_ibge": "2414456"
+       },
+       {
+           "state_id": 20,
+           "name": "UMARIZAL",
+           "is_capital": 0,
+           "co_ibge": "2414506"
+       },
+       {
+           "state_id": 20,
+           "name": "UPANEMA",
+           "is_capital": 0,
+           "co_ibge": "2414605"
+       },
+       {
+           "state_id": 20,
+           "name": "VÁRZEA",
+           "is_capital": 0,
+           "co_ibge": "2414704"
+       },
+       {
+           "state_id": 20,
+           "name": "VENHA-VER",
+           "is_capital": 0,
+           "co_ibge": "2414753"
+       },
+       {
+           "state_id": 20,
+           "name": "VERA CRUZ",
+           "is_capital": 0,
+           "co_ibge": "2414803",           
+           "comando_id": 1
+       },
+       {
+           "state_id": 20,
+           "name": "VIÇOSA",
+           "is_capital": 0,
+           "co_ibge": "2414902"
+       },
+       {
+           "state_id": 20,
+           "name": "VILA FLOR",
+           "is_capital": 0,
+           "co_ibge": "2415008"
+       },
+       {
+           "state_id": 20,
+           "name": "SERRA CAIADA",
+           "is_capital": 0,
+           "co_ibge": "2410306"
+       }
+   ]
+
+    }
+  

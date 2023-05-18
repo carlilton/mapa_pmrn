@@ -1,0 +1,10 @@
+version: '3'
+services:
+  nodejs-server:
+    image: node:16
+    working_dir: /usr/app/pmrn_mapa/
+    command: "npm run dev"
+    volumes:
+      - ./:/usr/app/pmrn_mapa/
+    ports:
+      - "3000:3000"

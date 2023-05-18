@@ -1,0 +1,43 @@
+{
+    "unidades" : [
+        {
+            "id" : 1,
+            "comando_id" : 1,
+            "nome" : "3º BPM",
+            "cidade_id" : 2403251
+        },
+        {
+            "id" : 2,
+            "comando_id" : 1,
+            "nome" : "11º BPM",
+            "cidade_id" : 2407104
+        },
+        {
+            "id" : 3,
+            "comando_id" : 2,
+            "nome" : "1º BPM",
+            "cidade_id" : 2408102
+        },        
+        {
+            "id" : 4,
+            "comando_id" : 2,
+            "nome" : "4º BPM",
+            "cidade_id" : 2408102
+        },
+        {
+            "id" : 5,
+            "comando_id" : 3,
+            "nome" : "7º BPM",
+            "cidade_id" : 2409407
+        },
+        
+        {
+            "id" : 6,
+            "comando_id" : 3,
+            "nome" : "2ª CIPM",
+            "cidade_id" : 2400505
+        }
+
+    ]
+       
+}
