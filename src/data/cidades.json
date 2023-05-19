@@ -477,7 +477,8 @@
            "state_id": 20,
            "name": "JUCURUTU",
            "is_capital": 0,
-           "co_ibge": "2406106"
+           "co_ibge": "2406106",
+           "comando_id": 4
        },
        {
            "state_id": 20,
@@ -553,7 +554,8 @@
            "state_id": 20,
            "name": "MACAÍBA",
            "is_capital": 0,
-           "co_ibge": "2407104"
+           "co_ibge": "2407104",
+           "comando_id": 1
        },
        {
            "state_id": 20,
