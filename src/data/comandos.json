@@ -14,6 +14,26 @@
             "id" : 3,
             "sigla" : "CPR I",
             "color" : "#AEE2FF"
+        },
+        {
+            "id" : 4,
+            "sigla" : "CPR II",
+            "color" : "#32E361"
+        },
+        {
+            "id" : 5,
+            "sigla" : "CPR III",
+            "color" : "#FF553B"
+        },
+        {
+            "id" : 6,
+            "sigla" : "CPR IV",
+            "color" : "#3BE5FF"
+        },
+        {
+            "id" : 7,
+            "sigla" : "CPR V",
+            "color" : "#FF3B68"
         }
     ]
 }
