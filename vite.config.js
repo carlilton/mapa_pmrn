@@ -7,6 +7,7 @@ import { watch } from 'vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
+  base: '/mapa_pmrn/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
@@ -18,5 +19,5 @@ export default defineConfig({
       usePolling: true,
       interval: 100
     }
-  }
+  }, 
 })
