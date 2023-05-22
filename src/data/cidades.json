@@ -102,7 +102,8 @@
            "state_id": 20,
            "name": "ARÊS",
            "is_capital": 0,
-           "co_ibge": "2401206"
+           "co_ibge": "2401206",
+           "comando_id": 1
        },
        {
            "state_id": 20,
