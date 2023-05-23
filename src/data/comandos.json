@@ -3,37 +3,37 @@
         {
             "id" : 1,
             "sigla" : "CPM",
-            "color" : "#2ca25f"
+            "color" : "#1B779B"
         },
         {
             "id" : 2,
             "sigla" : "CPC",
-            "color" : "#99d8c9"
+            "color" : "#7FCDBB"
         },
         {
             "id" : 3,
             "sigla" : "CPR I",
-            "color" : "#e5f5f9"
+            "color" : "#308BC9"
         },
         {
             "id" : 4,
             "sigla" : "CPR II",
-            "color" : "#fff7bc"
+            "color" : "#567189"
         },
         {
             "id" : 5,
             "sigla" : "CPR III",
-            "color" : "#fec44f"
+            "color" : "#65647C"
         },
         {
             "id" : 6,
             "sigla" : "CPR IV",
-            "color" : "#1c9099"
+            "color" : "#A7D2CB"
         },
         {
             "id" : 7,
             "sigla" : "CPR V",
-            "color" : "#ece2f0"
+            "color" : "#A35638"
         }
     ]
 }

@@ -17,18 +17,21 @@ html body {
 }
 
 .content {  
-  width: 90%;
   display: flex;  
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: initial;
+}
+.mapa{
+  width: 100%;
 }
 #svg-map {  
-  width: 100%;
+  width: 80%;
   height: vh;
   fill: #F8F6F4;
-  stroke: black;
+  stroke: white;
   stroke-width: 0.1;
+  margin-top: -100px;
 }
 
 .tooltip {
@@ -95,4 +98,15 @@ html body {
   font-family: Arial, sans-serif;
   font-size: 14px;
   color: #333;
+}
+
+.top{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.top img {
+  width: 120px;
 }

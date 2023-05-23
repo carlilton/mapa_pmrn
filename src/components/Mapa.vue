@@ -1,8 +1,14 @@
 <template>
+     <div class="top">
+            <img style="width: 100px; margin-top: -40px;" src="rn.png" alt="Logo" />
+            <img src="logopmrn.png" alt="Logo" />
+        </div>
     <div class="content">
+       
         <ul class="modern-list">
   <li v-for="comando in comandos" :style="{ 'background-color': comando.color }">{{ comando.sigla }}</li>
 </ul>
+<div class="mapa">
         <svg class="w-1/2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 800 438" version="1.1" id="svg-map"
             xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
             <defs id="defs50" />
@@ -842,7 +848,7 @@
                 :fill="getColor('city-2415008')" />
         </a>
     </svg>
-
+</div>
     <div id="tooltipContainer">
         <p>{{ city }}</p>
     </div>
