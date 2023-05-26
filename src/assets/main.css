@@ -26,12 +26,12 @@ html body {
   width: 100%;
 }
 #svg-map {  
-  width: 80%;
-  height: vh;
   fill: #F8F6F4;
   stroke: white;
   stroke-width: 0.1;
   margin-top: -100px;
+  width: 100%;
+  height: 80vh;
 }
 
 .tooltip {

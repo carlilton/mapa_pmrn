@@ -107,9 +107,10 @@
        },
        {
            "state_id": 20,
-           "name": "AUGUSTO SEVERO",
+           "name": "CAMPO GRANDE",
            "is_capital": 0,
-           "co_ibge": "2401305"
+           "co_ibge": "2401305",
+            "comando_id": 6
        },
        {
            "state_id": 20,
@@ -421,9 +422,10 @@
        },
        {
            "state_id": 20,
-           "name": "JANUÁRIO CICCO",
+           "name": "BOA SAÚDE",
            "is_capital": 0,
-           "co_ibge": "2405306"
+           "co_ibge": "2405306",
+           "comando_id": 5
        },
        {
            "state_id": 20,
@@ -767,12 +769,6 @@
            "is_capital": 0,
            "co_ibge": "2410256",
            "comando_id": 6
-       },
-       {
-           "state_id": 20,
-           "name": "PRESIDENTE JUSCELINO",
-           "is_capital": 0,
-           "co_ibge": "2410306"
        },
        {
            "state_id": 20,
