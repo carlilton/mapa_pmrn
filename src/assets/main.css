@@ -29,9 +29,9 @@ html body {
   fill: #F8F6F4;
   stroke: white;
   stroke-width: 0.1;
-  margin-top: -100px;
   width: 100%;
-  height: 80vh;
+  margin-top: 30px;
+
 }
 
 .tooltip {

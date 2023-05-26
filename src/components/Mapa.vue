@@ -1,8 +1,5 @@
 <template>
-    <div class="top">
-        <img style="width: 100px; margin-top: -40px;" src="rn.png" alt="Logo" />
-        <img src="logopmrn.png" alt="Logo" />
-    </div>
+  
     <div class="content">
 
         <ul class="modern-list">
