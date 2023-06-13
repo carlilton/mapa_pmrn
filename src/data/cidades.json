@@ -5,21 +5,27 @@
            "name": "MOSSORÓ",
            "is_capital": 0,
            "co_ibge": "2408003",
-           "comando_id": 3
+           "comando_id": 3,
+           "x": "500",
+              "y": "300"
        },
        {
            "state_id": 20,
            "name": "NATAL",
            "is_capital": 1,
            "co_ibge": "2408102",
-           "comando_id": 2
+           "comando_id": 2,
+              "x": "200",
+                  "y": "200"
        },
        {
            "state_id": 20,
            "name": "PARNAMIRIM",
            "is_capital": 0,
            "co_ibge": "2403251",           
-           "comando_id": 1
+           "comando_id": 1,
+                "x": "300",
+                    "y": "300"
        },
        {
            "state_id": 20,
@@ -47,14 +53,20 @@
            "name": "ÁGUA NOVA",
            "is_capital": 0,
            "co_ibge": "2400406",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 55,
+           "y" : 305,
+           "font" : 1.5
        },
        {
            "state_id": 20,
            "name": "ALEXANDRIA",
            "is_capital": 0,
            "co_ibge": "2400505",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 122,
+           "y" : 340,
+           "font" : 4
        },
        {
            "state_id": 20,
@@ -82,7 +94,10 @@
            "name": "ANTÔNIO MARTINS",
            "is_capital": 0,
            "co_ibge": "2400901",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 130,
+           "y" : 310,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -243,7 +258,10 @@
            "name": "CORONEL JOÃO PESSOA",
            "is_capital": 0,
            "co_ibge": "2402907",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 25,
+           "y" : 318,
+           "font" : 1.5
        },
        {
            "state_id": 20,
@@ -264,14 +282,20 @@
            "name": "DOUTOR SEVERIANO",
            "is_capital": 0,
            "co_ibge": "2403202",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 32,
+           "y" : 285,
+           "font" : 2
        },
        {
            "state_id": 20,
            "name": "ENCANTO",
            "is_capital": 0,
            "co_ibge": "2403301",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 57,
+           "y" : 289,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -320,7 +344,10 @@
            "name": "FRANCISCO DANTAS",
            "is_capital": 0,
            "co_ibge": "2403905",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 90,
+           "y" : 270,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -474,7 +501,10 @@
            "name": "JOSÉ DA PENHA",
            "is_capital": 0,
            "co_ibge": "2406007",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 58,
+           "y" : 335,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -551,7 +581,10 @@
            "name": "LUÍS GOMES",
            "is_capital": 0,
            "co_ibge": "2407005",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 30,
+              "y" : 343,
+            "font" : 3
        },
        {
            "state_id": 20,
@@ -572,14 +605,20 @@
            "name": "MAJOR SALES",
            "is_capital": 0,
            "co_ibge": "2407252",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 56,
+           "y" : 350,
+           "font" : 1
        },
        {
            "state_id": 20,
            "name": "MARCELINO VIEIRA",
            "is_capital": 0,
            "co_ibge": "2407302",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 80,
+           "y" : 322,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -656,7 +695,10 @@
            "name": "PARANÁ",
            "is_capital": 0,
            "co_ibge": "2408607",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 60,
+           "y" : 359,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -705,7 +747,10 @@
            "name": "PAU DOS FERROS",
            "is_capital": 0,
            "co_ibge": "2409407",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 80,
+           "y" : 288,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -747,7 +792,10 @@
            "name": "PILÕES",
            "is_capital": 0,
            "co_ibge": "2410009",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 120,
+           "y" : 322,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -782,7 +830,10 @@
            "name": "RAFAEL FERNANDES",
            "is_capital": 0,
            "co_ibge": "2410504",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 72,
+           "y" : 303,
+           "font" : 1.5
        },
        {
            "state_id": 20,
@@ -803,7 +854,10 @@
            "name": "RIACHO DE SANTANA",
            "is_capital": 0,
            "co_ibge": "2410801",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 47,
+           "y" : 320,
+           "font" : 1.5
        },
        {
            "state_id": 20,
@@ -894,7 +948,10 @@
            "name": "SÃO FRANCISCO DO OESTE",
            "is_capital": 0,
            "co_ibge": "2411908",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 82,
+           "y" : 255,
+           "font" : 1.1
        },
        {
            "state_id": 20,
@@ -936,7 +993,10 @@
            "name": "SÃO MIGUEL",
            "is_capital": 0,
            "co_ibge": "2412500",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 15,
+           "y" : 310,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -1069,7 +1129,10 @@
            "name": "TENENTE ANANIAS",
            "is_capital": 0,
            "co_ibge": "2414100",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 78,
+           "y" : 355,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -1104,7 +1167,10 @@
            "name": "TOUROS",
            "is_capital": 0,
            "co_ibge": "2414407",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 650,
+           "y" : 100,
+           "font" : 5
        },
        {
            "state_id": 20,
@@ -1139,7 +1205,10 @@
            "name": "VENHA-VER",
            "is_capital": 0,
            "co_ibge": "2414753",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 10,
+           "y" : 330,
+           "font" : 2
        },
        {
            "state_id": 20,
