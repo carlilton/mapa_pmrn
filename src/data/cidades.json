@@ -6,8 +6,9 @@
            "is_capital": 0,
            "co_ibge": "2408003",
            "comando_id": 3,
-           "x": "500",
-              "y": "300"
+           "x" : 260,
+           "y" : 80,
+           "font" : 7
        },
        {
            "state_id": 20,
@@ -39,14 +40,20 @@
            "name": "AÇU",
            "is_capital": 0,
            "co_ibge": "2400208",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 340,
+           "y" : 150,
+           "font" : 7
        },
        {
            "state_id": 20,
            "name": "AFONSO BEZERRA",
            "is_capital": 0,
            "co_ibge": "2400307",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 418,
+           "y" : 147,
+           "font" : 6
        },
        {
            "state_id": 20,
@@ -73,21 +80,30 @@
            "name": "ALMINO AFONSO",
            "is_capital": 0,
            "co_ibge": "2400604",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 177,
+           "y" : 295,
+           "font" : 1.8
        },
        {
            "state_id": 20,
            "name": "ALTO DO RODRIGUES",
            "is_capital": 0,
            "co_ibge": "2400703",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 395,
+           "y" : 123,
+           "font" : 3
        },
        {
            "state_id": 20,
            "name": "ANGICOS",
            "is_capital": 0,
            "co_ibge": "2400802",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 420,
+           "y" : 180,
+           "font" : 7
        },
        {
            "state_id": 20,
@@ -104,14 +120,20 @@
            "name": "APODI",
            "is_capital": 0,
            "co_ibge": "2401008",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 150,
+           "y" : 180,
+           "font" : 7
        },
        {
            "state_id": 20,
            "name": "AREIA BRANCA",
            "is_capital": 0,
            "co_ibge": "2401107",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 323,
+           "y" : 39,
+           "font" : 4
        },
        {
            "state_id": 20,
@@ -125,7 +147,10 @@
            "name": "CAMPO GRANDE",
            "is_capital": 0,
            "co_ibge": "2401305",
-            "comando_id": 6
+            "comando_id": 6,
+            "x" : 252,
+            "y" : 230,
+            "font" : 6
        },
        {
            "state_id": 20,
@@ -139,7 +164,10 @@
            "name": "BARAÚNA",
            "is_capital": 0,
            "co_ibge": "2401453",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 198,
+           "y" : 65,
+           "font" : 7
        },
        {
            "state_id": 20,
@@ -153,7 +181,10 @@
            "name": "BENTO FERNANDES",
            "is_capital": 0,
            "co_ibge": "2401602",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 595,
+           "y" : 190,
+           "font" : 4
        },
        {
            "state_id": 20,
@@ -181,7 +212,10 @@
            "name": "CAIÇARA DO NORTE",
            "is_capital": 0,
            "co_ibge": "2401859",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 543,
+           "y" : 80,
+           "font" : 1.5
        },
        {
            "state_id": 20,
@@ -230,7 +264,10 @@
            "name": "CARNAUBAIS",
            "is_capital": 0,
            "co_ibge": "2402501",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 370,
+           "y" : 100,
+           "font" : 5
        },
        {
            "state_id": 20,
@@ -323,14 +360,20 @@
            "name": "FELIPE GUERRA",
            "is_capital": 0,
            "co_ibge": "2403707",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 195,
+           "y" : 160,
+           "font" : 3
        },
        {
            "state_id": 20,
            "name": "FERNANDO PEDROZA",
            "is_capital": 0,
            "co_ibge": "2403756",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 458,
+           "y" : 204,
+           "font" : 5
        },
        {
            "state_id": 20,
@@ -354,14 +397,20 @@
            "name": "FRUTUOSO GOMES",
            "is_capital": 0,
            "co_ibge": "2404002",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 156,
+           "y" : 295,
+           "font" : 1.8
        },
        {
            "state_id": 20,
            "name": "GALINHOS",
            "is_capital": 0,
            "co_ibge": "2404101",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 515,
+           "y" : 80,
+           "font" : 4
        },
        {
            "state_id": 20,
@@ -375,21 +424,30 @@
            "name": "GOVERNADOR DIX-SEPT ROSADO",
            "is_capital": 0,
            "co_ibge": "2404309",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 210,
+           "y" : 130,
+           "font" : 4
        },
        {
            "state_id": 20,
            "name": "GROSSOS",
            "is_capital": 0,
            "co_ibge": "2404408",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 295,
+           "y" : 27,
+           "font" : 4
        },
        {
            "state_id": 20,
            "name": "GUAMARÉ",
            "is_capital": 0,
            "co_ibge": "2404507",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 483,
+           "y" : 75,
+           "font" : 4
        },
        {
            "state_id": 20,
@@ -403,7 +461,10 @@
            "name": "IPANGUAÇU",
            "is_capital": 0,
            "co_ibge": "2404705",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 377,
+           "y" : 160,
+           "font" : 6
        },
        {
            "state_id": 20,
@@ -417,14 +478,20 @@
            "name": "ITAJÁ",
            "is_capital": 0,
            "co_ibge": "2404853",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 383,
+           "y" : 192,
+           "font" : 6
        },
        {
            "state_id": 20,
            "name": "ITAÚ",
            "is_capital": 0,
            "co_ibge": "2404903",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 143,
+           "y" : 222,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -438,14 +505,20 @@
            "name": "JANDAÍRA",
            "is_capital": 0,
            "co_ibge": "2405108",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 525,
+           "y" : 120,
+           "font" : 5
        },
        {
            "state_id": 20,
            "name": "JANDUÍS",
            "is_capital": 0,
            "co_ibge": "2405207",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 237,
+           "y" : 262,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -466,7 +539,10 @@
            "name": "JARDIM DE ANGICOS",
            "is_capital": 0,
            "co_ibge": "2405504",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 560,
+           "y" : 180,
+           "font" : 2.7
        },
        {
            "state_id": 20,
@@ -487,14 +563,20 @@
            "name": "JOÃO CÂMARA",
            "is_capital": 0,
            "co_ibge": "2405801",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 583,
+           "y" : 150,
+           "font" : 6
        },
        {
            "state_id": 20,
            "name": "JOÃO DIAS",
            "is_capital": 0,
            "co_ibge": "2405900",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 153,
+           "y" : 325,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -574,7 +656,10 @@
            "name": "LUCRÉCIA",
            "is_capital": 0,
            "co_ibge": "2406908",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 163,
+           "y" : 283,
+           "font" : 1.8
        },
        {
            "state_id": 20,
@@ -598,7 +683,10 @@
            "name": "MACAU",
            "is_capital": 0,
            "co_ibge": "2407203",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 440,
+           "y" : 75,
+           "font" : 7
        },
        {
            "state_id": 20,
@@ -625,7 +713,10 @@
            "name": "MARTINS",
            "is_capital": 0,
            "co_ibge": "2407401",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 145,
+           "y" : 280,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -639,7 +730,10 @@
            "name": "MESSIAS TARGINO",
            "is_capital": 0,
            "co_ibge": "2407609",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 233,
+           "y" : 284,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -681,7 +775,10 @@
            "name": "OLHO-D\"ÁGUA DO BORGES",
            "is_capital": 0,
            "co_ibge": "2408409",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 182,
+           "y" : 254,
+           "font" : 1.8
        },
        {
            "state_id": 20,
@@ -705,14 +802,20 @@
            "name": "PARAÚ",
            "is_capital": 0,
            "co_ibge": "2408706",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 320,
+           "y" : 215,
+           "font" : 5
        },
        {
            "state_id": 20,
            "name": "PARAZINHO",
            "is_capital": 0,
            "co_ibge": "2408805",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 575,
+           "y" : 102,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -740,7 +843,10 @@
            "name": "PATU",
            "is_capital": 0,
            "co_ibge": "2409308",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 210,
+           "y" : 280,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -757,7 +863,10 @@
            "name": "PEDRA GRANDE",
            "is_capital": 0,
            "co_ibge": "2409506",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 592,
+           "y" : 75,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -771,7 +880,10 @@
            "name": "PEDRO AVELINO",
            "is_capital": 0,
            "co_ibge": "2409704",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 478,
+           "y" : 150,
+           "font" : 6
        },
        {
            "state_id": 20,
@@ -785,7 +897,10 @@
            "name": "PENDÊNCIAS",
            "is_capital": 0,
            "co_ibge": "2409902",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 420,
+           "y" : 110,
+           "font" : 5
        },
        {
            "state_id": 20,
@@ -802,21 +917,30 @@
            "name": "POÇO BRANCO",
            "is_capital": 0,
            "co_ibge": "2410108",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 620,
+           "y" : 170,
+           "font" : 1
        },
        {
            "state_id": 20,
            "name": "PORTALEGRE",
            "is_capital": 0,
            "co_ibge": "2410207",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 120,
+           "y" : 268,
+           "font" : 2
        },
        {
            "state_id": 20,
            "name": "PORTO DO MANGUE",
            "is_capital": 0,
            "co_ibge": "2410256",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 365,
+           "y" : 60,
+           "font" : 4
        },
        {
            "state_id": 20,
@@ -840,14 +964,20 @@
            "name": "RAFAEL GODEIRO",
            "is_capital": 0,
            "co_ibge": "2410603",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 183,
+           "y" : 275,
+           "font" : 1.8
        },
        {
            "state_id": 20,
            "name": "RIACHO DA CRUZ",
            "is_capital": 0,
            "co_ibge": "2410702",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 128,
+           "y" : 245,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -878,7 +1008,10 @@
            "name": "RODOLFO FERNANDES",
            "is_capital": 0,
            "co_ibge": "2411007",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 104,
+           "y" : 230,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -906,7 +1039,10 @@
            "name": "SANTANA DO MATOS",
            "is_capital": 0,
            "co_ibge": "2411403",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 400,
+           "y" : 240,
+           "font" : 7
        },
        {
            "state_id": 20,
@@ -927,7 +1063,10 @@
            "name": "SÃO BENTO DO NORTE",
            "is_capital": 0,
            "co_ibge": "2411601",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 562,
+           "y" : 75,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -1003,7 +1142,10 @@
            "name": "SÃO MIGUEL DO GOSTOSO",
            "is_capital": 0,
            "co_ibge": "2412559",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 618,
+           "y" : 75,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -1024,7 +1166,10 @@
            "name": "SÃO RAFAEL",
            "is_capital": 0,
            "co_ibge": "2412807",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 363,
+           "y" : 225,
+           "font" : 5
        },
        {
            "state_id": 20,
@@ -1066,7 +1211,10 @@
            "name": "SERRA DO MEL",
            "is_capital": 0,
            "co_ibge": "2413359",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 322,
+           "y" : 83,
+           "font" : 5
        },
        {
            "state_id": 20,
@@ -1087,14 +1235,20 @@
            "name": "SERRINHA DOS PINTOS",
            "is_capital": 0,
            "co_ibge": "2413557",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 121,
+           "y" : 290,
+           "font" : 1.8
        },
        {
            "state_id": 20,
            "name": "SEVERIANO MELO",
            "is_capital": 0,
            "co_ibge": "2413607",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 122,
+           "y" : 210,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -1108,7 +1262,10 @@
            "name": "TABOLEIRO GRANDE",
            "is_capital": 0,
            "co_ibge": "2413805",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 105,
+           "y" : 247,
+           "font" : 1.5
        },
        {
            "state_id": 20,
@@ -1146,7 +1303,10 @@
            "name": "TIBAU",
            "is_capital": 0,
            "co_ibge": "2411056",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 270,
+           "y" : 14,
+           "font" : 4
        },
        {
            "state_id": 20,
@@ -1177,21 +1337,30 @@
            "name": "TRIUNFO POTIGUAR",
            "is_capital": 0,
            "co_ibge": "2414456",
-           "comando_id": 6
+           "comando_id": 6,
+           "x" : 300,
+           "y" : 243,
+           "font" : 4
        },
        {
            "state_id": 20,
            "name": "UMARIZAL",
            "is_capital": 0,
            "co_ibge": "2414506",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 160,
+           "y" : 260,
+           "font" : 3
        },
        {
            "state_id": 20,
            "name": "UPANEMA",
            "is_capital": 0,
            "co_ibge": "2414605",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 275,
+           "y" : 172,
+           "font" : 6
        },
        {
            "state_id": 20,
@@ -1222,7 +1391,10 @@
            "name": "VIÇOSA",
            "is_capital": 0,
            "co_ibge": "2414902",
-           "comando_id": 7
+           "comando_id": 7,
+           "x" : 136,
+           "y" : 257,
+           "font" : 2
        },
        {
            "state_id": 20,
