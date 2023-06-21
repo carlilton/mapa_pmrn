@@ -918,9 +918,9 @@
            "is_capital": 0,
            "co_ibge": "2410108",
            "comando_id": 6,
-           "x" : 620,
+           "x" : 628,
            "y" : 170,
-           "font" : 1
+           "font" : 2.8
        },
        {
            "state_id": 20,
