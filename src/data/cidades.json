@@ -16,8 +16,9 @@
            "is_capital": 1,
            "co_ibge": "2408102",
            "comando_id": 2,
-              "x": "200",
-                  "y": "200"
+           "x" : 739,
+           "y" : 217,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -25,8 +26,9 @@
            "is_capital": 0,
            "co_ibge": "2403251",           
            "comando_id": 1,
-                "x": "300",
-                    "y": "300"
+           "x" : 735,
+           "y" : 241,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -143,7 +145,10 @@
            "name": "ARÊS",
            "is_capital": 0,
            "co_ibge": "2401206",
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 743,
+           "y" : 304,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -210,7 +215,10 @@
            "name": "BOM JESUS",
            "is_capital": 0,
            "co_ibge": "2401701",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 655,
+           "y" : 260,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -277,7 +285,10 @@
            "name": "CARAÚBAS",
            "is_capital": 0,
            "co_ibge": "2402303",
-           "comando_id": 3
+           "comando_id": 3,
+           "x" : 205,
+           "y" : 210,
+           "font" : 7
        },
        {
            "state_id": 20,
@@ -304,7 +315,10 @@
            "name": "CEARÁ-MIRIM",
            "is_capital": 0,
            "co_ibge": "2402600",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 692,
+           "y" : 173,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -391,14 +405,20 @@
            "name": "ESPÍRITO SANTO",
            "is_capital": 0,
            "co_ibge": "2403509",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 718,
+           "y" : 330,
+           "font" : 1.5
        },
        {
            "state_id": 20,
            "name": "EXTREMOZ",
            "is_capital": 0,
            "co_ibge": "2403608",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 726,
+           "y" : 187,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -465,7 +485,10 @@
            "name": "GOIANINHA",
            "is_capital": 0,
            "co_ibge": "2404200",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 740,
+           "y" : 323,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -502,7 +525,10 @@
            "name": "IELMO MARINHO",
            "is_capital": 0,
            "co_ibge": "2404606",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 659,
+           "y" : 212,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -769,7 +795,10 @@
            "name": "MACAÍBA",
            "is_capital": 0,
            "co_ibge": "2407104",
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 689,
+           "y" : 246,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -816,7 +845,10 @@
            "name": "MAXARANGUAPE",
            "is_capital": 0,
            "co_ibge": "2407500",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 709,
+           "y" : 139,
+           "font" : 2.5
        },
        {
            "state_id": 20,
@@ -834,8 +866,8 @@
            "is_capital": 0,
            "co_ibge": "2407708",
            "comando_id": 5,
-           "x" : 722,
-           "y" : 370,
+           "x" : 700,
+           "y" : 300,
            "font" : 2
        },
        {
@@ -843,7 +875,10 @@
            "name": "MONTE ALEGRE",
            "is_capital": 0,
            "co_ibge": "2407807",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 697,
+           "y" : 282,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -860,7 +895,10 @@
            "name": "NÍSIA FLORESTA",
            "is_capital": 0,
            "co_ibge": "2408201",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 745,
+           "y" : 270,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -949,7 +987,7 @@
            "co_ibge": "2409209",
            "comando_id": 5,
            "x" : 700,
-           "y" : 327,
+           "y" : 322,
            "font" : 1.7
        },
        {
@@ -1067,7 +1105,10 @@
            "name": "PUREZA",
            "is_capital": 0,
            "co_ibge": "2410405",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 660,
+           "y" : 130,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -1124,7 +1165,10 @@
            "name": "RIO DO FOGO",
            "is_capital": 0,
            "co_ibge": "2408953",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 695,
+           "y" : 124,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -1241,7 +1285,10 @@
            "name": "SÃO GONÇALO DO AMARANTE",
            "is_capital": 0,
            "co_ibge": "2412005",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 693,
+           "y" : 212,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -1258,7 +1305,10 @@
            "name": "SÃO JOSÉ DE MIPIBU",
            "is_capital": 0,
            "co_ibge": "2412203",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 715,
+           "y" : 263,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -1365,7 +1415,10 @@
            "name": "SENADOR GEORGINO AVELINO",
            "is_capital": 0,
            "co_ibge": "2413201",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 760,
+           "y" : 295,
+           "font" : 0.7
        },
        {
            "state_id": 20,
@@ -1452,7 +1505,10 @@
            "name": "TAIPU",
            "is_capital": 0,
            "co_ibge": "2413904",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 657,
+           "y" : 175,
+           "font" : 3
        },
        {
            "state_id": 20,
@@ -1499,7 +1555,10 @@
            "name": "TIBAU DO SUL",
            "is_capital": 0,
            "co_ibge": "2414209",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 763,
+           "y" : 313,
+           "font" : 2
        },
        {
            "state_id": 20,
@@ -1576,7 +1635,10 @@
            "name": "VERA CRUZ",
            "is_capital": 0,
            "co_ibge": "2414803",           
-           "comando_id": 1
+           "comando_id": 1,
+           "x" : 687,
+           "y" : 268,
+           "font" : 2
        },
        {
            "state_id": 20,
