@@ -1,15 +1,13 @@
 <template>
-  
+  <div id="content">
   <div class="top">
-            <img style="width: 100px; left: 15px;" :src="logoRn" alt="logoRn" />
-            <img style="right: 15px;" :src="logoPMRN" alt="Logo" />
+            <img style="width: 40px; left: 15px;" :src="logoRn" alt="logoRn" />
+            <img style="width: 40px; right: 15px;" :src="logoPMRN" alt="Logo" />
         </div>
-    <div class="content">        
-        <ul class="modern-list">
-            <li v-for="comando in comandos" :style="{ 'background-color': comando.color }">{{ comando.sigla }}</li>
-        </ul>
+     
+        
         <div class="mapa">
-            <svg viewBox="0 0 1000 500" @wheel="onWheel" @mousedown="startDrag" @touchstart="startDrag"  class="w-1/2" stroke-linecap="round" stroke-linejoin="round"  version="1.1"
+            <svg viewBox="-80 -60 1000 600" @wheel="onWheel" @mousedown="startDrag" @touchstart="startDrag"  class="w-1/2" stroke-linecap="round" stroke-linejoin="round"  version="1.1"
                 id="svg-map" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
                 <defs id="defs50" />
                 <a href="#" v-on:mouseover="showTooltip" v-on:mouseleave="hideTooltip" data-name="ACARI">
@@ -849,19 +847,23 @@
                         d="M 766.27 321.22 766.56 321.07 766.84 320.57 767.16 320.32 767.35 320.2 767.56 320.13 767.77 320.13 768.1 320.05 768.33 319.89 768.48 319.35 768.64 319.08 769.11 318.69 770.21 318.41 770.7 318.41 771.03 318.37 771.29 318.41 771.85 318.42 772.15 318.39 772.56 318.31 772.74 318.18 773.42 318 773.97 317.96 774.61 317.85 774.9 317.73 775.12 317.7 775.36 317.72 775.55 317.84 775.83 318.1 776.02 318.31 776.34 319.01 776.49 319.2 776.5 319.2 777.36 319.61 777.82 319.98 778 320.23 778.43 320.63 778.86 320.81 780.33 320.96 780.88 321.08 781.58 321.36 782.09 321.63 782.27 321.68 781.67 322.29 781.84 323.95 781.69 324.46 781.12 324.43 780.81 324.7 780.47 324.76 780.15 324.64 779.87 324.81 779.58 324.78 779.23 324.56 778.9 324.8 778.53 324.83 778.18 324.69 778.05 324.78 778.67 325.92 778.92 329.03 776.63 328.84 779.8 331.2 779.4 331.36 778.66 331.39 778.36 331.51 777.64 331.94 776.42 333.02 775.84 333.09 774.74 333.6 773.8 333.73 773.4 334.06 766.12 332.71 765.82 326.29 765.79 325.71 766.25 324.94 766.36 324.36 766.35 323.61 766.11 322.83 766.02 321.77 766.27 321.22 Z"
                         :fill="getColor('city-2415008')" />
                 </a>
-                <text v-for="cidade in cidades" :x="cidade.x" :y="cidade.y" :font-size="cidade.font ?? 10">{{ cidade.name }}</text>
+                <text :class="{hide: !showNamesOfCities}" v-for="cidade in cidades" :x="cidade.x" :y="cidade.y" :font-size="cidade.font ?? 10">{{ cidade.name }}</text>
             </svg>
         </div>
         <div id="tooltipContainer">
             <p>{{ city }}</p>
         </div>
 
+        <ul class="modern-list">
+            <li v-for="comando in comandos" :style="{ 'background-color': comando.color }">{{ comando.sigla }}</li>
+            
+        </ul>
 
-
-    </div>
+   
     <svg id="svg-scrim" class="svg svg-scrim" style="display: none;">
         <circle id="pivot" class="pivot" cx="0" cy="0" r="6" />
     </svg>
+</div>
 </template>
 
 
@@ -878,6 +880,7 @@ export default {
             comandos: comandos.comandos,
             cidades: cidades.cidades,
             city: '',
+            showNamesOfCities: false,
             hoverActive: false,
             svg: null,
             reset: document.querySelector("#reset"),
@@ -897,6 +900,15 @@ export default {
             cachedViewBox: {},
 
             zoom: {},
+            colors : {
+                1 : '#1B779B',
+                2 : '#7FCDBB',
+                3 : '#308BC9',
+                4 : '#567189',
+                5 : '#65647C',
+                6 : '#A7D2CB',
+                7 : '#A35638',
+            },
 
 
 
@@ -922,8 +934,7 @@ export default {
     mounted() {
        
         this.svg = document.querySelector("#svg-map");
-        this.point = this.svg.createSVGPoint();
-        console.log(this.point);
+        this.point = this.svg.createSVGPoint();      
         TweenLite.set(pivot, { scale: 0 }),
             this.startClient = this.svg.createSVGPoint();
         this.startGlobal = this.svg.createSVGPoint();
@@ -945,11 +956,8 @@ export default {
             alpha: 1,
             scale: 1,
             paused: true,
-        }),
-            //window.addEventListener("wheel", this.onWheel);
-
-        console.log(this.viewBox);
-
+        })
+        
 
     },
 
@@ -957,12 +965,8 @@ export default {
         getColor(city) {
             city = city.replace(/\D/g, '');
             let cidade = this.getCity(city);
-            console.log(cidade);
-
             if (!cidade) return '#000000';
-
             if (!cidade.comando_id) return '#000000';
-
             let comando = this.getComando(cidade.comando_id);
             return comando.color;
         },
@@ -990,7 +994,7 @@ export default {
             this.hoverActive = false
         },
 
-        onWheel(event) {
+        onWheel(event) { 
             this.pivotAnimation.reverse();
 
             var normalized;
