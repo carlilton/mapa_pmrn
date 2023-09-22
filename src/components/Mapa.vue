@@ -7,7 +7,7 @@
      
         
         <div class="mapa">
-            <svg viewBox="-80 -60 1000 600" @wheel="onWheel" @mousedown="startDrag" @touchstart="startDrag"  class="w-1/2" stroke-linecap="round" stroke-linejoin="round"  version="1.1"
+            <svg viewBox="-80 -60 1000 600" @wheel="onWheel"  class="w-1/2" stroke-linecap="round" stroke-linejoin="round"  version="1.1"
                 id="svg-map" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
                 <defs id="defs50" />
                 <a href="#" v-on:mouseover="showTooltip" v-on:mouseleave="hideTooltip" data-name="ACARI">
