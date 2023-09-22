@@ -24,14 +24,14 @@ html body {
   justify-content: initial;
 }
 .mapa{
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
 }
 #svg-map {  
   fill: #F8F6F4;
   stroke: white;
   stroke-width: 0.1;
-  width: 95%;
+  width: 100%;
 
 }
 
